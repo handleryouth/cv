@@ -1,0 +1,21 @@
+body {
+  background-color: #aee1e1;
+  font-family: Garamond, serif;
+  font-size: 18px
+}
+
+hr {
+  text-align: center;
+  border-style: dotted none none none;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border-width: 5px;
+  width: 50%;
+}
+
+.navbar {
+  font-size: 18px;
+}
+.navbar:hover{
+  color: #fcd1d1;
+}
